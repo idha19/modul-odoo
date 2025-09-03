@@ -43,6 +43,9 @@
 
 <!-- Membuat Data Dummy Tags -->
  
+
+
+ 
 <record id="data_demo_pengajar_1" model="res.partner.category">
     <field name="name">Pengajar / Basic</field>
 </record>
